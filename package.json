@@ -1,0 +1,23 @@
+{
+  "name": "all-ok-app",
+  "version": "1.0.0",
+  "description": "A simple HTTP application that responds with a 200 OK on all urls.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acodeninja/all-ok-app.git"
+  },
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acodeninja/all-ok-app/issues"
+  },
+  "homepage": "https://github.com/acodeninja/all-ok-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
